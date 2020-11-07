@@ -1,0 +1,48 @@
+=== Mario & Luigi: Dream Team SAVE FILE PACKAGE ===
+== Read Me ==
+This save file package was created by Snodeca and Migu. This package consists of multiple folders in which you can find a multitude of save files. There are save files for each route of each category that we know of and more.
+
+= SAVE FILES =
+* Any%
+	* Snoion's route (Early Mount Pajamaja) ( https://www.speedrun.com/mldt/guide/oajmc ) (done by Migu)
+
+
+
+---------------------------------------
+
+
+
+= PLANNED =
+* Any%
+	* Fretzi's route (pre-Early Driftwood) ( https://www.speedrun.com/mldt/guide/sulh1 )
+	* Snodeca's 7:54:12 route (Early Driftwood)
+  !	* Snoion's route (Early Mount Pajamaja) ( https://www.speedrun.com/mldt/guide/oajmc ) (made by Migu)
+	* Antasma Skip Route
+	* Dreamy Dozing Sands Skip route
+	* Antasma Skip + Early Dreamy Dozing Sands route
+
+* Glitchless
+	* Demolition14's route
+
+* All Bosses
+	* Untested route (2018) ( https://www.speedrun.com/mldt/guide/x6ksn )
+
+* Walk through Walls save files
+	* Eldream WtW (Mushrise Park)
+	* Wakeport WtW (Panels still there)
+	* Wakeport WtW (Panels missing, no cutscene storage)
+	* Wakeport WtW (Panels missing, cutscene storage)
+	* Big Massif WtW
+	* Dreamy Wakeport WtW (Red Coin Storage)
+	* Mount Pajamaja WtW
+	* Driftwood Shore WtW
+	* Somnom WtW
+	* Neo Bowser Castle WtW
+
+* Cheated save files
+	* 999 stats everywhere, beginning of Blimport and other places
+	* All abilities from the get-go
+	* All badges from the get-go + ability to use them
+	* All items from the get-go
+	* All abilities, badges and items from the get-go
+	
