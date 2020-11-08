@@ -14,48 +14,12 @@ In the list of save game folders (not in the folder with the ML__00x save files 
 
 Also download ML4__000.sav on the front page of this GitHub. Put this together with the other ML4__00x.sav files.
 
+ALTERNATIVELY:
+
+You can download the zip file at the top of each list of save games, extract that to wherever your save file folder is and just use that. This is simpler but gives you less freedom with what save files you want from different points of the game.
 
 = SAVE FILES =
 
 * Any%
-	* Snoion's route (Early Mount Pajamaja) ( https://www.speedrun.com/mldt/guide/oajmc ) (done by Migu)
-
-
-
----------------------------------------
-
-
-
-= PLANNED =
-* Any%
-	* Fretzi's route (pre-Early Driftwood) ( https://www.speedrun.com/mldt/guide/sulh1 )
-	* Snodeca's 7:54:12 route (Early Driftwood)
-  !	* Snoion's route (Early Mount Pajamaja) ( https://www.speedrun.com/mldt/guide/oajmc ) (made by Migu)
-	* Antasma Skip Route
-	* Dreamy Dozing Sands Skip route
-	* Antasma Skip + Early Dreamy Dozing Sands route
-
-* Glitchless
-	* Demolition14's route
-
-* All Bosses
-	* Untested route (2018) ( https://www.speedrun.com/mldt/guide/x6ksn )
-
-* Walk through Walls save files
-	* Eldream WtW (Mushrise Park)
-	* Wakeport WtW (Panels still there)
-	* Wakeport WtW (Panels missing, no cutscene storage)
-	* Wakeport WtW (Panels missing, cutscene storage)
-	* Big Massif WtW
-	* Dreamy Wakeport WtW (Red Coin Storage)
-	* Mount Pajamaja WtW
-	* Driftwood Shore WtW
-	* Somnom WtW
-	* Neo Bowser Castle WtW
-
-* Cheated save files
-	* 999 stats everywhere, beginning of Blimport and other places
-	* All abilities from the get-go
-	* All badges from the get-go + ability to use them
-	* All items from the get-go
-	* All abilities, badges and items from the get-go
+	* Early Mount Pajamaja (2018) (Snoion's route) ( https://www.speedrun.com/mldt/guide/oajmc ) (done by Migu)
+	* Bowser's Dream Skip + Dreamy Dozing Skip (2020) (Unfinished, up to the beginning of Mount Pajamaja done)
