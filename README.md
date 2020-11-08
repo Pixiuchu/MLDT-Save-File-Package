@@ -22,4 +22,4 @@ You can download the zip file at the top of each list of save games, extract tha
 
 * Any%
 	* Early Mount Pajamaja (2018) (Snoion's route) ( https://www.speedrun.com/mldt/guide/oajmc ) (done by Migu)
-	* Bowser's Dream Skip + Dreamy Dozing Skip (2020)
+	* Bowser's Dream Skip + Dreamy Dozing Skip (2020) (Unfinished, up to the beginning of Mount Pajamaja done)
